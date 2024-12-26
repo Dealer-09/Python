@@ -15,7 +15,7 @@ Advanced-level solutions tackling complex problems and algorithms.
 
 The repository is structured to help you navigate easily based on the difficulty level:
 
-# 1. Beginner
+### 1. Beginner
 
 Programs covering fundamental concepts like:
 
@@ -26,7 +26,7 @@ Basic file handling.
 Simple data structures (e.g., lists, dictionaries).
 
 
-# 2. Intermediate
+### 2. Intermediate
 
 Projects focusing on:
 
