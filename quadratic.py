@@ -5,7 +5,7 @@ c = float(input("Enter the coefficient c: "))
 if a == 0:
     print("Error! Not a quadratic equation")
 else:
-    d = (b * b) - (4 * a * c)
+    d = b ** 2 - 4 * a * c
     if d > 0:
         root1 = (-b + math.sqrt(d)) / (2 * a)
         root2 = (-b - math.sqrt(d)) / (2 * a)
