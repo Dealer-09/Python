@@ -12,5 +12,3 @@ while True:
       break
   except ValueError:    #If invalid number print error
     print("Please enter a valid number")
-
- 
